@@ -1,0 +1,33 @@
+{
+  "name": "Mohamed Oueslati",
+  "firstName": "Mohamed",
+  "lastName": "Oueslati",
+  "bio": "I build things that lives on Internet.",
+  "githubUsername": "mmedoues",
+  "instagramUsername": "medwesx",
+  "linkdinUsername": "mohamed-oueslati-b29037254",
+  "twitterUsername": "",
+  "snapchatUsername": "",
+  "telegram": "t.me/mmedoues",
+  "facebookUsername": "mohamed oueslati",
+  "mail": "eleves276293@tarbia.tn",
+  "mail2": "mohame0136@gmail.com",
+  "numberOfAchivement": "69",
+  "myImage": "https://raw.githubusercontent.com/mmedoues/images/main/IMG_3396.png",
+  "demoProjects": [
+    {
+      "id": 1,
+      "image": "tuned.png",
+      "title": "TunEd",
+      "github": "https://github.com/mmedoues/prototype-project-v2",
+      "demo": "https://tuned3.onrender.com/"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/mmedoues/images/main/construct.jpeg",
+      "title": "Adoptini",
+      "github": "",
+      "demo": ""
+    }
+  ]
+}
