@@ -32,9 +32,7 @@ const About = () => {
 <div className="me image-card">
   <img loading="lazy" src={About_Image} alt="me" />
 </div>
-        <div className="me image-card">
-          <img loading="lazy" src={config.myImage} alt="me" />
-        </div>
+
         {/* </div> */}
 
         <div className="about_content">
