@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../../styles/About.css";
 import config from "../../config.json";
-
+import About_Image from "./image.jpg";
 import { FaAward } from "react-icons/fa";
 import { BsFolder } from "react-icons/bs";
 import { BsStar } from "react-icons/bs";
@@ -29,9 +29,9 @@ const About = () => {
 
       <div className="container about_container">
         {/* <div className="about_me"> */}
-        {/* <div className="about_me-image">
-            <img src={About_Image} alt="profile_pic" />
-          </div> */}
+<div className="me image-card">
+  <img loading="lazy" src={About_Image} alt="me" />
+</div>
         <div className="me image-card">
           <img loading="lazy" src={config.myImage} alt="me" />
         </div>
